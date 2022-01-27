@@ -15,7 +15,7 @@ int main (){
 	
 	n = (x * y) / m;
 	
-	printf("A Velocidade em km/h que o carro viajou foi: %d", n);
+	printf("A Velocidade em km/h que o carro viajou foi: %d km/h", n);
 	
 	return 0;
 	
